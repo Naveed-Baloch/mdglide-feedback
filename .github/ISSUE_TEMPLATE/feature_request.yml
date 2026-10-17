@@ -1,0 +1,37 @@
+name: Feature request
+description: Suggest an improvement to MD Glide.
+title: "[Feature]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Describe your use case without sharing private information. This request and all attachments are public."
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before requesting
+      options:
+        - label: I searched existing issues for a similar request.
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe what you are trying to do and what gets in the way.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed improvement
+      description: How should MD Glide behave?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or workarounds
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: "Optional. Include only sanitized examples or screenshots."
