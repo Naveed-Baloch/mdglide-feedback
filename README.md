@@ -9,7 +9,7 @@ This public repository contains support documentation, bug reports, and feature 
 - [Report a bug](https://github.com/Naveed-Baloch/mdglide-feedback/issues/new?template=bug_report.yml)
 - [Request a feature](https://github.com/Naveed-Baloch/mdglide-feedback/issues/new?template=feature_request.yml)
 - [Browse existing reports](https://github.com/Naveed-Baloch/mdglide-feedback/issues)
-- [Read the privacy policy](PRIVACY.md)
+- [Read the privacy policy](https://baloch.dev/apps/mdglide/privacy.html)
 
 A GitHub account is required to post. Search existing reports before creating a new one. All issues, comments, and attachments are public: remove private text, file paths, credentials, and personal information. Use a small, sanitized Markdown example to demonstrate a problem.
 
@@ -32,4 +32,4 @@ Feature requests should describe the problem you want to solve and how a propose
 
 ## Privacy
 
-The extension processes documents on your device and does not upload them to the developer. Information you voluntarily post in this repository is sent to GitHub and is public. See the [full privacy policy](PRIVACY.md) before sharing support materials.
+The extension processes documents on your device and does not upload them to the developer. Information you voluntarily post in this repository is sent to GitHub and is public. See the [full privacy policy](https://baloch.dev/apps/mdglide/privacy.html) before sharing support materials.
