@@ -1,5 +1,7 @@
 # MD Glide privacy policy
 
+The official, current policy is published at [baloch.dev](https://baloch.dev/apps/mdglide/privacy.html). A copy is retained below for reference.
+
 Last updated: October 17, 2026.
 
 MD Glide renders and edits Markdown in your browser. The extension has no accounts, analytics, advertising, or developer-operated document-processing server. MD Glide does not upload document contents to the developer.
