@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Setup instructions and support
+    url: https://github.com/Naveed-Baloch/mdglide-feedback#readme
+    about: Learn how to open local Markdown files and find support resources.
+  - name: Privacy policy
+    url: https://github.com/Naveed-Baloch/mdglide-feedback/blob/main/PRIVACY.md
+    about: Read how MD Glide handles documents, settings, and support information.
